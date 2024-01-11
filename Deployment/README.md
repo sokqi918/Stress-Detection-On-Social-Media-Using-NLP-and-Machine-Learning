@@ -18,12 +18,20 @@ In order to deploy Streamlit, we run Streamlit in Anaconda Terminal.
 The following pictures showed the pages content:
 
 **1. Main Page: Introduction**
+
+Here, we provide an introduction to the Stress Self-Guide, highlighting key features and more.
+
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/introduction1.jpg)
 
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/introduction2.jpg)
 
 **2. Stress Detector**
+
+In Stress Detector page, I've implemented my top-performing models to efficiently analyze content for stress levels. The design and user interaction have been carefully crafted to ensure a friendly and pleasant experience, encouraging users to share their stories more candidly.
+
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/stressdetector1.jpg)
+
+The third and fourth pages are dedicated to addressing common questions about stress, such as how it feels to experience stress and ways to manage it. These pages aim to provide guidance for users currently dealing with stress or depression.
 
 **3. How It Feels to Have Stress?**
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/howitfeels1.jpg)
@@ -36,4 +44,7 @@ The following pictures showed the pages content:
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/howcani2.jpg)
 
 **5. Contact Us**
+
+the fifth page features a contact form, allowing users to reach out directly, along with providing helpline information for immediate assistance.
+
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/contactus.jpg)
