@@ -6,7 +6,7 @@ import streamlit as st
 
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/USER/OneDrive/Desktop/Research/Deployment/trained_model.sav','rb'))
+loaded_model = pickle.load(open('trained_model.sav','rb'))
 
 # creating a function for prediction
 
@@ -38,7 +38,7 @@ def stress_detection(input_data):
     joined_text = [" ".join(processed_data)]
 
     # save model
-    saved_tfidf = joblib.load('C:/Users/USER/OneDrive/Desktop/Research/Deployment/tfidf.joblib')
+    saved_tfidf = joblib.load('tfidf.joblib')
 
     X_train_tfidf = saved_tfidf.transform(joined_text)
 
@@ -58,7 +58,7 @@ def main():
     
     #insert photo
     from PIL import Image
-    img = Image.open("C:/Users/USER/OneDrive/Desktop/Research\Deployment/what is stress.png")
+    img = Image.open("what is stress.png")
     st.image(img)
     
     st.header("Share Your Story")
@@ -105,7 +105,7 @@ def introduction():
     
     #insert photo
     from PIL import Image
-    img3 = Image.open("C:/Users/USER/OneDrive/Desktop/Research\Deployment/youcan.jpg")
+    img3 = Image.open("youcan.jpg")
     st.image(img3)
     
     
@@ -120,7 +120,7 @@ def symptom():
     
     # insert photo
     from PIL import Image
-    img1 = Image.open("C:/Users/USER/OneDrive/Desktop/Research\Deployment/how it feels to have stress.jpg")
+    img1 = Image.open("how it feels to have stress.jpg")
     st.image(img1)
     
 # Page: Stress Management
@@ -128,7 +128,7 @@ def Stress_Manage():
     
     # insert photo
     from PIL import Image
-    img2 = Image.open("C:/Users/USER/OneDrive/Desktop/Research\Deployment/Stress management.jpg")
+    img2 = Image.open("C:Stress management.jpg")
     st.image(img2)
 
 def needhelp():
