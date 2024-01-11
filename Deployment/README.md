@@ -24,3 +24,11 @@ The following pictures showed the pages content:
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/howitfeels1.jpg)
 
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/howitfeels2.jpg)
+
+**4. How Can I Manage Stress?**
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/howcani1.jpg)
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/howcani2.jpg)
+
+**5. Contact Us**
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/contactus.jpg)
