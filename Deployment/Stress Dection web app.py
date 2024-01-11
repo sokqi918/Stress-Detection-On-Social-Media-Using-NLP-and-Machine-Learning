@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 14 23:02:35 2023
-
-@author: USER
-"""
+# library
 
 import numpy as np
 import pickle
@@ -27,7 +22,7 @@ def stress_detection(input_data):
     nltk.download('wordnet')
     from nltk.stem import WordNetLemmatizer
 
-
+    # data preprocessing
     stop_words = stopwords.words('english')
     lemmatizer = WordNetLemmatizer()
 
@@ -42,6 +37,7 @@ def stress_detection(input_data):
     processed_data = preprocess(input_data)
     joined_text = [" ".join(processed_data)]
 
+    # save model
     saved_tfidf = joblib.load('C:/Users/USER/OneDrive/Desktop/Research/Deployment/tfidf.joblib')
 
     X_train_tfidf = saved_tfidf.transform(joined_text)
