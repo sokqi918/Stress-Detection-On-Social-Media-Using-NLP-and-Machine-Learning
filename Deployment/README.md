@@ -10,3 +10,17 @@ In order to deploy Streamlit, we run Streamlit in Anaconda Terminal.
 **Run Streamlit**
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/run%20streamlit.jpg)
 
+The following pictures showed the pages content:
+
+**1. Main Page: Introduction**
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/introduction1.jpg)
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/introduction2.jpg)
+
+**2. Stress Detector**
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/stressdetector1.jpg)
+
+**3. How It Feels to Have Stress?**
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/howitfeels1.jpg)
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/howitfeels2.jpg)
