@@ -14,7 +14,7 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/methodology.jpg)
 
 # Feature Extraction Techniques
-*Traditional Machine Learning Models* 
+*Traditional Machine Learning Models*  
 **1. BoW** 
 | Models | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|-----------|--------|----------|
