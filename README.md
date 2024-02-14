@@ -13,7 +13,9 @@ In this project, we are using SEMMA to create our methodology.
 Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction)
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/methodology.jpg)
 
-# BoW
+# Feature Extraction Techniques
+*Traditional Machine Learning Models* 
+**1. BoW** 
 | Models | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|-----------|--------|----------|
 | SVM    | 73.77    | 77.52     | 73.80  | 75.61    |
@@ -22,7 +24,7 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 | DT     | 62.15    | 68.56     | 57.83  | 62.74    |
 | RF     | 73.24    | 73.61     | 80.19  | 76.76    |
 
-# TF-IDF 
+**2. TF-IDF** 
 | Models | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|-----------|--------|----------|
 | SVM    | 75.70    | 79.26     | 75.72  | 77.45    |
@@ -31,7 +33,7 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 | DT     | 61.80    | 74.49     | 46.65  | 57.37    |
 | RF     | 74.47    | 75.61     | 79.23  | 77.38    |
 
-# Word2vec
+**3. Word2Vec**
 | Models | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|-----------|--------|----------|
 | SVM    | 57.92    | 59.59     | 67.21  | 63.17    |
