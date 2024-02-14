@@ -4,7 +4,7 @@ Sometimes, they just need a pair of ear to listen their story. This website is i
 
 In order to deploy Streamlit, we run Streamlit in Anaconda Terminal.
 
-[Website Link](https://stressdetectorapps.streamlit.app/)
+Website Link: [*Link*](https://stressdetectorapps.streamlit.app/)
 
 
 1. *The code is available in [Link](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Deployment/Stress%20Dection%20web%20app.py)*
