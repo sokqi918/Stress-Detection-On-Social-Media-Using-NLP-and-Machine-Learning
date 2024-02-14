@@ -9,6 +9,6 @@ This repository contains the coding using python from data preprocessing until d
 3. To evaluate the selected machine learning models performance using suitable evaluation metrics.
 
 # Methodology
-In this project, we are using SEMMA to create our methodology.
-
+In this project, we are using SEMMA to create our methodology. 
+Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction)
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/methodology.jpg)
