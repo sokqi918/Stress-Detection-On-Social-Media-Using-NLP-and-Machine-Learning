@@ -15,6 +15,7 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 
 # Feature Extraction Techniques
 *Traditional Machine Learning Models*  
+
 **1. BoW** 
 | Models | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|-----------|--------|----------|
@@ -47,3 +48,12 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 | RF     | 62.68    | 64.86     | 66.56  | 65.70    |
 
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/Word2vec.png)
+
+*Deep Learning Models*
+
+| Feature_Extraction | Models | Accuracy | Precision | Recall | F1-Score |
+|--------------------|--------|----------|-----------|--------|----------|
+| GloVe              | LSTM   | 73.66    | 79.87     | 66.84  | 72.78    |
+| GloVe              | CNN    | 73.52    | 71.93     | 81.55  | 76.44    |
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/glove.png)
