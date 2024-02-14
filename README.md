@@ -14,8 +14,10 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/methodology.jpg)
 
 # Feature Extraction Techniques
-*Traditional Machine Learning Models*  
 Logistic Regression with TF-IDF are outperforming among all models in term of accuracy, which achieved at 76.23%. Naive Bayes is well performed in BoW and TF-IDF as well, achieved F1-Score of 79.76% and 78.42% respectively. 
+
+*Traditional Machine Learning Models*  
+
 **1. BoW** 
 | Models | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|-----------|--------|----------|
