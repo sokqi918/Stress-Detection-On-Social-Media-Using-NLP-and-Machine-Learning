@@ -52,7 +52,7 @@ Logistic Regression with TF-IDF are outperforming among all models in term of ac
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/Word2vec.png)
 
 *Deep Learning Models*
-
+**4. GloVe**  
 | Feature_Extraction | Models | Accuracy | Precision | Recall | F1-Score |
 |--------------------|--------|----------|-----------|--------|----------|
 | GloVe              | LSTM   | 73.66    | 79.87     | 66.84  | 72.78    |
