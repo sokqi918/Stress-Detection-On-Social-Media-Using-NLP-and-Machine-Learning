@@ -24,6 +24,8 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 | DT     | 62.15    | 68.56     | 57.83  | 62.74    |
 | RF     | 73.24    | 73.61     | 80.19  | 76.76    |
 
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/BoW.png)
+
 **2. TF-IDF** 
 | Models | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|-----------|--------|----------|
@@ -32,6 +34,8 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 | NB     | 75.00    | 74.78     | 82.43  | 78.42    |
 | DT     | 61.80    | 74.49     | 46.65  | 57.37    |
 | RF     | 74.47    | 75.61     | 79.23  | 77.38    |
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/TFIDF.png)
 
 **3. Word2Vec**
 | Models | Accuracy | Precision | Recall | F1-Score |
@@ -42,3 +46,4 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 | DT     | 53.70    | 57.09     | 55.41  | 56.24    |
 | RF     | 62.68    | 64.86     | 66.56  | 65.70    |
 
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/Word2vec.png)
