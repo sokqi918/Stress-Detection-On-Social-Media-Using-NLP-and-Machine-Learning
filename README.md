@@ -27,8 +27,6 @@ Logistic Regression with TF-IDF are outperforming among all models in term of ac
 | DT     | 62.15    | 68.56     | 57.83  | 62.74    |
 | RF     | 73.24    | 73.61     | 80.19  | 76.76    |
 
-<img src="[https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/BoW.png]" alt="BoW" width="300">
-
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/BoW.png)
 
 **2. TF-IDF** 
