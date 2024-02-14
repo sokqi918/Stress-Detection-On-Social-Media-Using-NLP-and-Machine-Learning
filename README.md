@@ -61,4 +61,4 @@ Logistic Regression with TF-IDF are outperforming among all models in term of ac
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/glove.png)
 
 # Deployment
-We used Streamlit to create a simple Website, you can find the coding in here[https://github.com/sokqi918/Stress-Detection-On-Social-Media/tree/main/Deployment].
+We used Streamlit to create a simple Website, you can find the coding in [here](https://github.com/sokqi918/Stress-Detection-On-Social-Media/tree/main/Deployment).
