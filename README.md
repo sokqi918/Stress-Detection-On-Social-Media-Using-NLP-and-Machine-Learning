@@ -34,7 +34,27 @@ Tokenization involves breaking down the text into tokens, which are individual w
 The elimination of punctuation marks, including periods, commas, question marks, quote marks, colons, semicolons, and other symbols, is accomplished using NLP approaches.
 
 *World Cloud After Data Preprocessing*
+
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media-Using-NLP-and-Machine-Learning/blob/main/Pictures/World%20Cloud%20After%20Data%20Preprocessing.jpg)
+
+# Exploratory Data Analysis (EDA)
+
+The stress label classification is evident, where '0' signifies non-stressful content, while '1' denotes content associated with stress. The dataset comprises 1350 instances of non-stressful content and 1488 instances of stressful content. Upon examining the bar chart, it becomes apparent that there is a relatively balanced distribution of the target variable between these two labels.
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media-Using-NLP-and-Machine-Learning/blob/main/Pictures/stressornot.jpg)
+
+The pie chart provides a clear illustration of the subreddit users’ posting preferences. It is evident that subreddit users are more inclined to post in forums related to topic such as “PTSD” and “Anxiety”. These two categories have the highest representation. Additionally, the topic related to “Relationships” and “Domestic Violence” are also notable categories. To delve deeper into the analysis, we draw a bar chart that displays subreddits categorised by stress and non-stress content.
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media-Using-NLP-and-Machine-Learning/blob/main/Pictures/piechart.jpg)
+
+Below bar chart illustrates individuals who are experiencing stress tend to prefer posting content in forum related to “anxiety” and “PTSD”. This preference stands in contrast to those who are not experiencing stress, as they are more likely to contribute content in the “relationship” forum. This suggests a correlation between the emotional state of users and their choice of forum topics for posting.
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media-Using-NLP-and-Machine-Learning/blob/main/Pictures/barchart.jpg)
+
+Analysing wordcloud reveals subtle distinctions between content labelled as non-stressful (label 0) and stressful (label 1). In non-stressful content, words such as "time," "friend," and "life" are more prevalent. Conversely, stressful content tends to feature words like "feel," "anxiety," and "feeling" more frequently in the text. This observation suggests that specific terms characterize the nature of the text, distinguishing between stress and non-stress scenarios
+
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media-Using-NLP-and-Machine-Learning/blob/main/Pictures/wordcloud.jpg)
+
 
 # Feature Extraction Techniques
 Logistic Regression with TF-IDF are outperforming among all models in term of accuracy, which achieved at 76.23%. Naive Bayes is well performed in BoW and TF-IDF as well, achieved F1-Score of 79.76% and 78.42% respectively. 
