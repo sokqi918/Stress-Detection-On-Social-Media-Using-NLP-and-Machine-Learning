@@ -16,7 +16,7 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kreeshrajani/human-stress
 # Data Collection & Data Understanding
 The dataset was collected from Kaggle, which consist of 7 features with 2838 rows. Before we start to do data cleansing, we would like to understand our dataset. Figure 2 showed the meaning for each column. Since we want to identify if the content is stressful or not, the column of “label” is our target variable in this case. 1488 users are identified as stress, while 1350 users are identified as non-stress. The target variable is quite balanced.
 
-![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media/blob/main/Pictures/data description.jpg)
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media-Using-NLP-and-Machine-Learning/blob/main/Pictures/data%20description.jpg)
 
 # Feature Extraction Techniques
 Logistic Regression with TF-IDF are outperforming among all models in term of accuracy, which achieved at 76.23%. Naive Bayes is well performed in BoW and TF-IDF as well, achieved F1-Score of 79.76% and 78.42% respectively. 
