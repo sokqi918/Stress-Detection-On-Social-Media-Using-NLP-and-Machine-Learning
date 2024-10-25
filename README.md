@@ -18,6 +18,24 @@ The dataset was collected from Kaggle, which consist of 7 features with 2838 row
 
 ![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media-Using-NLP-and-Machine-Learning/blob/main/Pictures/data%20description.jpg)
 
+# Data Cleaning
+Data cleaning and preprocessing are essential steps in the data preparation process for NLP tasks because noisy data will affect the performance of models. Before we preprocess the data, we will need to check if there is any duplicated or missing data in our dataset. Besides that, text will be pre-processed by using NLP techniques such as stop words removal, punctuation, and perform tokenization and word normalization. The following are some methods for text data:
+
+**i.	Stop words removal**
+Stop word removal is a Natural Language Processing (NLP) technique where common words like “the”, “are”, “is” and “and” are removed from the text data to reduce noise and focus on meaningful words. By removing stop words, the focus shifts to more informative and contextually relevant words in the text.
+
+**ii.	Lemmatization**
+Lemmatization is an essential NLP technique designed to simplify words to their base or root form. Its objective is to standardize words to their common base, aiding in the reduction of inflected forms and facilitating analysis. Unlike stemming, lemmatization typically transforms words to their root form, preserving the meaningful and interpretable meaning of the words. This distinction from stemming is significant, as lemmatization ensures that words maintain their semantic integrity, avoiding potential confusion that may arise from the more aggressive nature of stemming.
+
+**iii.	Tokenization**
+Tokenization involves breaking down the text into tokens, which are individual words. During this step, the text is segmented based on both whitespace and punctuation. For instance, the phrase "It is a good day!" will be broken up into the phrases "it," "is," "a," "good", "day," and "!"
+
+**iv.	Punctuation marks removal**
+The elimination of punctuation marks, including periods, commas, question marks, quote marks, colons, semicolons, and other symbols, is accomplished using NLP approaches.
+
+*World Cloud After Data Preprocessing*
+![Updated Image](https://github.com/sokqi918/Stress-Detection-On-Social-Media-Using-NLP-and-Machine-Learning/blob/main/Pictures/World%20Cloud%20After%20Data%20Preprocessing.jpg)
+
 # Feature Extraction Techniques
 Logistic Regression with TF-IDF are outperforming among all models in term of accuracy, which achieved at 76.23%. Naive Bayes is well performed in BoW and TF-IDF as well, achieved F1-Score of 79.76% and 78.42% respectively. 
 
